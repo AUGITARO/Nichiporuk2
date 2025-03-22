@@ -1,6 +1,5 @@
 from abc import ABC, abstractmethod
 
-
 # Продукт (отчет)
 class Report:
     def __init__(self, student_name):

@@ -179,4 +179,124 @@
     <source>Worker-4</source>
     <message>Worker Worker-4 encountered an error.</message>
 </entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>WARNING</type>
+    <source>Worker-0</source>
+    <message>Worker Worker-0 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>WARNING</type>
+    <source>Worker-1</source>
+    <message>Worker Worker-1 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>WARNING</type>
+    <source>Worker-2</source>
+    <message>Worker Worker-2 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>WARNING</type>
+    <source>Worker-3</source>
+    <message>Worker Worker-3 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>WARNING</type>
+    <source>Worker-4</source>
+    <message>Worker Worker-4 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>ERROR</type>
+    <source>Worker-0</source>
+    <message>Worker Worker-0 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>ERROR</type>
+    <source>Worker-1</source>
+    <message>Worker Worker-1 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>ERROR</type>
+    <source>Worker-2</source>
+    <message>Worker Worker-2 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>ERROR</type>
+    <source>Worker-3</source>
+    <message>Worker Worker-3 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 11:18:15</timestamp>
+    <type>ERROR</type>
+    <source>Worker-4</source>
+    <message>Worker Worker-4 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>WARNING</type>
+    <source>Worker-0</source>
+    <message>Worker Worker-0 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>WARNING</type>
+    <source>Worker-1</source>
+    <message>Worker Worker-1 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>WARNING</type>
+    <source>Worker-2</source>
+    <message>Worker Worker-2 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>ERROR</type>
+    <source>Worker-0</source>
+    <message>Worker Worker-0 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>WARNING</type>
+    <source>Worker-3</source>
+    <message>Worker Worker-3 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>WARNING</type>
+    <source>Worker-4</source>
+    <message>Worker Worker-4 is doing something.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>ERROR</type>
+    <source>Worker-1</source>
+    <message>Worker Worker-1 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>ERROR</type>
+    <source>Worker-2</source>
+    <message>Worker Worker-2 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>ERROR</type>
+    <source>Worker-3</source>
+    <message>Worker Worker-3 encountered an error.</message>
+</entry>
+<entry>
+    <timestamp>2025-03-19 13:51:33</timestamp>
+    <type>ERROR</type>
+    <source>Worker-4</source>
+    <message>Worker Worker-4 encountered an error.</message>
+</entry>
 </log>
