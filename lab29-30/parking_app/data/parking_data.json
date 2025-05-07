@@ -1,0 +1,15 @@
+[
+    {
+        "id": "20250505112128",
+        "car_brand": "merc",
+        "car_number": "2355",
+        "owner_name": "gf",
+        "entry_time": "2025-05-05T11:21:28.729674",
+        "hourly_rate": 100.0,
+        "discount": 5,
+        "exit_time": null,
+        "payment_status": "Не оплачено",
+        "debt": 0.0,
+        "cost": 0.0
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "car_brand": "mercedes",
+        "car_number": "3225",
+        "owner_name": "kf",
+        "entry_time": "2025-05-05 11:10:34.851331",
+        "hourly_rate": 100,
+        "discount": 0,
+        "exit_time": null,
+        "payment_status": "Оплачено",
+        "debt": 0.0
+    },
+    {
+        "car_brand": "mercedes",
+        "car_number": "435354",
+        "owner_name": "gfhrgh",
+        "entry_time": "2025-05-05 11:37:12.235426",
+        "hourly_rate": 100,
+        "discount": 3,
+        "exit_time": "2025-05-05 11:37:30.267078",
+        "payment_status": "Оплачено",
+        "debt": 0.0,
+        "cost": 0.49
+    }
+]
