@@ -1,3 +1,4 @@
+#stepa pedik
 import tkinter as tk
 import random
 
